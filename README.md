@@ -10,8 +10,9 @@ Folio is a customizable Laravel content-management system. (Currently in beta.)
 
 [Nono.MA](https://nono.ma) | [Getting Simple](https://gettingsimple.com) | [Lourdes.AC](https://lourdes.ac) | [AR-MA](https://ar-ma.net) | [Getting Architecture Done](http://gettingarchitecturedone.com/writing) | [Nacho.MA](https://nacho.ma)
 
-## Installation
+## Usage
 
+- `cp .env.example .env && php artisan key:generate` and config database in `.env`
 - `composer install`
 - `php artisan serve`
 
