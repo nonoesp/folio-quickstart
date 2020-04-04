@@ -12,6 +12,7 @@ Folio is a customizable Laravel content-management system. (Currently in beta.)
 
 ## Usage
 
+- `git clone https://github.com/nonoesp/folio-quickstart && cd folio-quickstart`
 - `cp .env.example .env` and config database in `.env`
 - `composer install --no-dev`
 - `php artisan key:generate`
