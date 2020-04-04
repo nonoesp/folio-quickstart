@@ -7,6 +7,16 @@
         "laravel"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nonoesp/versionable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/nonoesp/laravel-imgix"
+        }
+    ],
     "require": {
         "php": "^7.2.5",
         "fideloper/proxy": "^4.2",
